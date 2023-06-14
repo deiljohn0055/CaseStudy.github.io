@@ -1,0 +1,48 @@
+.he1{
+   text-align: center ;
+   font-size: 50px  ;  
+}
+
+.he2{
+  text-align: center;
+  font-size: 20px;
+}
+.he3{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+  }
+  .he4{
+    text-align: center;
+    font-size: 200px;
+    font: bold;
+  }
+  .he5{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+  }
+  .he6{
+    text-align: center;
+    font-size: 50px;
+    font: bold;
+  }
+  .he7{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+  }
+  .he8{
+    text-align: center;
+    font-size: 50px;
+    font: bold;
+  }
+  .he9{
+    text-align: center;
+    font-size: 50px;
+    font: bold;
+  }
+ .button{
+    width: 100%;
+    font-size: 30px;
+ }
