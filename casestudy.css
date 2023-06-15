@@ -43,6 +43,16 @@
     font: bold;
   }
  .button{
-    width: 100%;
+   
+    width: 50%;
     font-size: 30px;
  }
+.previos{
+ 
+  width: 50%;
+  height: 50%;
+}
+.mydiv{
+  text-align: center;
+  
+}
